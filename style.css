@@ -1,0 +1,49 @@
+.header{
+    width: 100%;
+}
+.heading{
+    display: inline;
+}
+.instruction{
+    border: 1px solid white;
+    font-size: 22px;
+}
+.restart{
+    border: 1px solid white;
+    font-size: 22px;
+}
+#status{
+    font-size: 22px;
+    border: 1px solid white;
+}
+#start{
+    border: 1px solid white;
+    font-size: 22px;
+}
+.copy_right_footer{
+    color: gray;
+    background-color: gainsboro;
+    line-height: 2;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    margin-bottom: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+canvas{
+    background-color: #003399;
+    border-color: 2px 2px #003cb3;
+    box-shadow: 2px 2px 1px #0044cc;
+    margin-top: 200px;
+    border-radius: 20px;
+}
+#webcam{
+    background-color: #003399;
+    border-color: 2px 2px #003cb3;
+    box-shadow: 2px 2px 1px #0044cc;
+    border-radius: 20px;
+    width: 750px;
+    height: 650px;
+}
